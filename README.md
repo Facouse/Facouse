@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Facouse
 - 👀 I’m interested in ML,DL,AI...
-- 🌱 I’m currently learning 深度学习,机器学习,flink,Alink...
-- 💞️ I’m looking to collaborate on AI competition
+- 🌱 I’m currently learning DeepLearning,machine learning,Big Data...
+- 💞️ I’m currently working in Baidu
 - 📫 How to reach me yvyang2020@163.com
 
 <!---
