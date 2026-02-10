@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Facouse
-- 👀 I’m interested in ML,DL,AI...
+- 👀 I’m interested in VLM,LLM,AI...
 - 🌱 I’m currently learning DeepLearning,machine learning,Big Data...
-- 💞️ I’m currently working in Baidu
-- 📫 How to reach me yvyang2020@163.com
+- 💞️ I’m currently working in Alibaba
+- 📫 How to reach me 15965592572@163.com
 
 <!---
 Facouse/Facouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
